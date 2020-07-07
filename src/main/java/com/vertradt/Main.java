@@ -12,7 +12,7 @@ public class Main {
     }
 
 
-//    co może mieć uczen lekcje, ocen..
+//    co może mieć uczen lekcje, ocen, dyżur, uwagi, kółka zainteresowań, lekcje dodatkowe, przynależność do klasy
 
 //    Id - primary key, auto increment
 
